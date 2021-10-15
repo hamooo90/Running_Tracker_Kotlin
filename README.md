@@ -1,5 +1,5 @@
 # Description 
- A Running tracker app that make use of google map api to track user location an draw the path and store them in room database.
+ A Running tracker app that make use of google map api to track user location and draw the path and store them in room database.
 
 ### Features
 - MVVM
